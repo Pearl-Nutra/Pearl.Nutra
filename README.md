@@ -1,2 +1,4 @@
 # Pearl.Nutra
-🌿 Chinenyenwa Ofodum | Nutritionist &amp; DevOps Engineer | Bridging the Health and Technology.
+
+#   Hi, I'm Chinenyenwa Ofodum
+### Nutrition Student | Aspiring DevOps Engineer | Building Pearl.Nutra
